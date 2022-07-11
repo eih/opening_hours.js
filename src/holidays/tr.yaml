@@ -1,0 +1,13 @@
+---
+
+_nominatim_url: 'https://nominatim.openstreetmap.org/search?format=json&country=T%C3%BCrkiye&zoom=18&addressdetails=1&limit=1&accept-language=en'
+
+# https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_resm%C3%AE_tatiller
+PH:
+  - {'name': 'Yılbaşı', 'fixed_date': [1, 1]}
+  - {'name': 'Ulusal Egemenlik ve Çocuk Bayramı', 'fixed_date': [4, 23]}
+  - {'name': 'Emek ve Dayanışma Günü', 'fixed_date': [5, 1]}
+  - {'name': 'Atatürk'ü Anma, Gençlik ve Spor Bayramı', 'fixed_date': [5, 19]}
+  - {'name': 'Demokrasi ve Millî Birlik Günü', 'fixed_date': [7, 15]}
+  - {'name': 'Zafer Bayramı', 'fixed_date': [8, 30]}
+  - {'name': 'Cumhuriyet Bayramı', 'fixed_date': [10, 29]}

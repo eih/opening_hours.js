@@ -26,6 +26,7 @@ export { default as ru } from "./ru.yaml";
 export { default as se } from "./se.yaml";
 export { default as si } from "./si.yaml";
 export { default as sk } from "./sk.yaml";
+export { default as tr } from "./tr.yaml";
 export { default as ua } from "./ua.yaml";
 export { default as us } from "./us.yaml";
 export { default as vn } from "./vn.yaml";
